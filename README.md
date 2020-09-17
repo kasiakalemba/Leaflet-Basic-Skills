@@ -26,9 +26,9 @@ The USGS provides earthquake data in a number of different formats, updated ever
 * Created a map using Leaflet that plots all of the earthquakes from your data set based on their longitude and latitude
 * Illustrated the relationship between tectonic plates and seismic activity. Data on tectonic plates can be found at https://github.com/fraxen/tectonicplates
 
-![](map.png)
+![](images/map.png)
 
-![](code.png)
+![](images/code.png)
 
 
 
