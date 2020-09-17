@@ -1,4 +1,4 @@
-# Leaflet - Basic Skills Demonstration
+# Leaflet - World Earthquake View 
 
 ## Summary: 
 This challenge's task was to build a new set of tools to allow visualization of earthquake data. The data set is a collection of a massive amount of data from all over the world each day, but it lack a meaningful way of displaying it. The task was to be able to visualize the data allowingto better educate the public and other government organizations.
