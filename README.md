@@ -9,7 +9,7 @@ This app allows visualization of earthquake data which is pulled each time user 
 ![](images/map.png)
 
 ## Technologies
-* Leaflet 
+* Javascript: Leaflet 
 * HTML, CSS 
 * GeoJSON data
 
